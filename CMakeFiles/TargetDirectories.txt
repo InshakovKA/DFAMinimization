@@ -1,0 +1,4 @@
+C:/Users/User/Desktop/Формалки/min/CMakeFiles/dfa_minim.dir
+C:/Users/User/Desktop/Формалки/min/CMakeFiles/INSTALL.dir
+C:/Users/User/Desktop/Формалки/min/CMakeFiles/ALL_BUILD.dir
+C:/Users/User/Desktop/Формалки/min/CMakeFiles/ZERO_CHECK.dir
